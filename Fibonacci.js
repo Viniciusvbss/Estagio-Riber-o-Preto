@@ -19,5 +19,5 @@ function pertenceFibonacci(numero) {
    return `O número ${numero} não pertence à sequência de Fibonacci.`;
 }
 
-let numero = 5
+let numero = 8
 console.log(pertenceFibonacci(numero))
